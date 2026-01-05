@@ -67,8 +67,6 @@ GameViewportClientClassName=/Script/YourProject.MSGameViewportClient
 - 왼쪽 절반: 로컬 플레이어의 RenderTarget
 - 오른쪽 절반: 원격 플레이어의 RenderTarget
 
-## 성능 최적화
-
 ## 제한 사항
 
 - 2인 플레이어 전용 (3인 이상 확장 필요)
