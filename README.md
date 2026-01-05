@@ -1,7 +1,7 @@
 # It-Takes-Two-Copy
 It Takes Two 일부 기능 모작
 
-# Unreal Engine 5 Split Screen System
+# Unreal Engine Split Screen System
 https://eovywjr1.tistory.com/459
 
 네트워크 멀티플레이어 환경(리슨 서버)에서 **It Takes Two** 스타일의 분할 화면을 구현하는 시스템입니다.
@@ -26,7 +26,7 @@ https://eovywjr1.tistory.com/459
 
 ## 요구 사항
 
-- Unreal Engine 5.5+
+- Unreal Engine 4.26+
 - C++ 프로젝트
 
 ## 설치
